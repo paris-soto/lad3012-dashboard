@@ -33,7 +33,7 @@ TU_ID     = "180018"
 # Despues vuelves a GitHub, editas esta linea, y haces commit.
 # Streamlit Cloud actualiza tu dashboard solo en 30 segundos.
 # ============================================================
-TU_INSIGHT = """Observe que Office Supplies es la categoria con mas ventas, pero al observar el margen del negocio es solo de un 5.9%, con lo cual me doy cuenta que el vender mas no significa generar mas. Mi recomendacion es que la empresa prioric los productos con mayor ganancia"""
+TU_INSIGHT = """Observe que Office Supplies es la categoria con mas ventas, pero al observar el margen del negocio es solo de un 5.9%, con lo cual me doy cuenta que el vender mas no significa generar mas. Mi recomendacion es que la empresa priorice los productos con mayor ganancia"""
 
 # ============================================================
 # CARGAR DATOS (con cache para velocidad)
